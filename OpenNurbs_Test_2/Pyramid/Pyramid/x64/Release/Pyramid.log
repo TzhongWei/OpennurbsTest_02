@@ -1,0 +1,27 @@
+﻿  pch.cpp
+   --- statically linking public opennurbs.
+C:\Users\Username\Desktop\opennurbs-7.x\opennurbs_public_examples.h(43,27): warning C4083: expected ')'; found identifier 'OPENNURBS_OUTPUT_DIR'
+C:\Users\Username\Desktop\opennurbs-7.x\opennurbs_public_examples.h(44,27): warning C4083: expected ')'; found identifier 'OPENNURBS_OUTPUT_DIR'
+  Bridge.cpp
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(19,13): warning C4251: 'Pyramid::Pt1': class 'ON_3dPoint' needs to have dll-interface to be used by clients of class 'Pyramid'
+C:\Users\Username\Desktop\opennurbs-7.x\opennurbs_texture_mapping.h(32): message : see declaration of 'ON_3dPoint'
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(20,13): warning C4251: 'Pyramid::Pt2': class 'ON_3dPoint' needs to have dll-interface to be used by clients of class 'Pyramid'
+C:\Users\Username\Desktop\opennurbs-7.x\opennurbs_texture_mapping.h(32): message : see declaration of 'ON_3dPoint'
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(21,13): warning C4251: 'Pyramid::Pt3': class 'ON_3dPoint' needs to have dll-interface to be used by clients of class 'Pyramid'
+C:\Users\Username\Desktop\opennurbs-7.x\opennurbs_texture_mapping.h(32): message : see declaration of 'ON_3dPoint'
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(22,13): warning C4251: 'Pyramid::Pt4': class 'ON_3dPoint' needs to have dll-interface to be used by clients of class 'Pyramid'
+C:\Users\Username\Desktop\opennurbs-7.x\opennurbs_texture_mapping.h(32): message : see declaration of 'ON_3dPoint'
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Bridge.cpp(10,21): error C2526: 'GetPyramid': C linkage function cannot return C++ class 'std::list<ON_Line,std::allocator<ON_Line>>'
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(26): message : see declaration of 'std::list<ON_Line,std::allocator<ON_Line>>'
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Bridge.cpp(13,3): error C2562: 'GetPyramid': 'void' function returning a value
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Bridge.cpp(10): message : see declaration of 'GetPyramid'
+  dllmain.cpp
+  Test_1_PointAdd.cpp
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(19,13): warning C4251: 'Pyramid::Pt1': class 'ON_3dPoint' needs to have dll-interface to be used by clients of class 'Pyramid'
+C:\Users\Username\Desktop\opennurbs-7.x\opennurbs_texture_mapping.h(32): message : see declaration of 'ON_3dPoint'
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(20,13): warning C4251: 'Pyramid::Pt2': class 'ON_3dPoint' needs to have dll-interface to be used by clients of class 'Pyramid'
+C:\Users\Username\Desktop\opennurbs-7.x\opennurbs_texture_mapping.h(32): message : see declaration of 'ON_3dPoint'
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(21,13): warning C4251: 'Pyramid::Pt3': class 'ON_3dPoint' needs to have dll-interface to be used by clients of class 'Pyramid'
+C:\Users\Username\Desktop\opennurbs-7.x\opennurbs_texture_mapping.h(32): message : see declaration of 'ON_3dPoint'
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(22,13): warning C4251: 'Pyramid::Pt4': class 'ON_3dPoint' needs to have dll-interface to be used by clients of class 'Pyramid'
+C:\Users\Username\Desktop\opennurbs-7.x\opennurbs_texture_mapping.h(32): message : see declaration of 'ON_3dPoint'

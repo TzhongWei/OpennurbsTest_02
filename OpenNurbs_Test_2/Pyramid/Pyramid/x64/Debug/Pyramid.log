@@ -1,0 +1,30 @@
+﻿  pch.cpp
+D:\C++&Java\OpenNurbs_2\opennurbs-7.x\opennurbs_material.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\C++&Java\OpenNurbs_2\opennurbs-7.x\opennurbs_dimensionstyle.h(1860,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+   --- statically linking public opennurbs.
+D:\C++&Java\OpenNurbs_2\opennurbs-7.x\opennurbs_public_examples.h(43,27): warning C4083: 必須是 ')'，但卻找到識別項 'OPENNURBS_OUTPUT_DIR'
+D:\C++&Java\OpenNurbs_2\opennurbs-7.x\opennurbs_public_examples.h(44,27): warning C4083: 必須是 ')'，但卻找到識別項 'OPENNURBS_OUTPUT_DIR'
+  Bridge.cpp
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(19,13): warning C4251: 'Pyramid::Pt1': class 'ON_3dPoint' 必須有 DLL 介面，才能被為 class 'Pyramid' 的用戶端使用
+D:\C++&Java\OpenNurbs_2\opennurbs-7.x\opennurbs_texture_mapping.h(32): message : 請參閱 'ON_3dPoint' 的宣告
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(20,13): warning C4251: 'Pyramid::Pt2': class 'ON_3dPoint' 必須有 DLL 介面，才能被為 class 'Pyramid' 的用戶端使用
+D:\C++&Java\OpenNurbs_2\opennurbs-7.x\opennurbs_texture_mapping.h(32): message : 請參閱 'ON_3dPoint' 的宣告
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(21,13): warning C4251: 'Pyramid::Pt3': class 'ON_3dPoint' 必須有 DLL 介面，才能被為 class 'Pyramid' 的用戶端使用
+D:\C++&Java\OpenNurbs_2\opennurbs-7.x\opennurbs_texture_mapping.h(32): message : 請參閱 'ON_3dPoint' 的宣告
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(22,13): warning C4251: 'Pyramid::Pt4': class 'ON_3dPoint' 必須有 DLL 介面，才能被為 class 'Pyramid' 的用戶端使用
+D:\C++&Java\OpenNurbs_2\opennurbs-7.x\opennurbs_texture_mapping.h(32): message : 請參閱 'ON_3dPoint' 的宣告
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Bridge.cpp(10,21): error C2526: 'GetPyramid': C 連結函式無法傳回 C++ 類別 'std::list<ON_Line,std::allocator<ON_Line>>'
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(26): message : 請參閱 'std::list<ON_Line,std::allocator<ON_Line>>' 的宣告
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Bridge.cpp(13,3): error C2562: 'GetPyramid': 'void' 函式傳回一個值
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Bridge.cpp(10): message : 請參閱 'GetPyramid' 的宣告
+  dllmain.cpp
+  Test_1_PointAdd.cpp
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(19,13): warning C4251: 'Pyramid::Pt1': class 'ON_3dPoint' 必須有 DLL 介面，才能被為 class 'Pyramid' 的用戶端使用
+D:\C++&Java\OpenNurbs_2\opennurbs-7.x\opennurbs_texture_mapping.h(32): message : 請參閱 'ON_3dPoint' 的宣告
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(20,13): warning C4251: 'Pyramid::Pt2': class 'ON_3dPoint' 必須有 DLL 介面，才能被為 class 'Pyramid' 的用戶端使用
+D:\C++&Java\OpenNurbs_2\opennurbs-7.x\opennurbs_texture_mapping.h(32): message : 請參閱 'ON_3dPoint' 的宣告
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(21,13): warning C4251: 'Pyramid::Pt3': class 'ON_3dPoint' 必須有 DLL 介面，才能被為 class 'Pyramid' 的用戶端使用
+D:\C++&Java\OpenNurbs_2\opennurbs-7.x\opennurbs_texture_mapping.h(32): message : 請參閱 'ON_3dPoint' 的宣告
+D:\C++&Java\C++Dll_Learning\Test_Dll_5\OpenNurbs_Test_2\Pyramid\Pyramid\Test_1_PointAdd.h(22,13): warning C4251: 'Pyramid::Pt4': class 'ON_3dPoint' 必須有 DLL 介面，才能被為 class 'Pyramid' 的用戶端使用
+D:\C++&Java\OpenNurbs_2\opennurbs-7.x\opennurbs_texture_mapping.h(32): message : 請參閱 'ON_3dPoint' 的宣告
+  正在產生程式碼...

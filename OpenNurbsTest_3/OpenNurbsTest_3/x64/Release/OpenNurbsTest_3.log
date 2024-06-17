@@ -1,0 +1,11 @@
+﻿  pch.cpp
+   --- statically linking public opennurbs.
+D:\C++&Java\opennurbs-7.x\opennurbs_public_examples.h(43,27): warning C4129: 'D': unrecognized character escape sequence
+D:\C++&Java\opennurbs-7.x\opennurbs_public_examples.h(43,27): warning C4129: 'o': unrecognized character escape sequence
+D:\C++&Java\opennurbs-7.x\opennurbs_public_examples.h(43,27): warning C4129: 'R': unrecognized character escape sequence
+D:\C++&Java\opennurbs-7.x\opennurbs_public_examples.h(44,27): warning C4129: 'D': unrecognized character escape sequence
+D:\C++&Java\opennurbs-7.x\opennurbs_public_examples.h(44,27): warning C4129: 'o': unrecognized character escape sequence
+D:\C++&Java\opennurbs-7.x\opennurbs_public_examples.h(44,27): warning C4129: 'R': unrecognized character escape sequence
+  PyramidTest.cpp
+  dllmain.cpp
+LINK : fatal error LNK1104: cannot open file 'C:UsersUsernameDesktopopennurbs-7.xindRelease/opennurbs_public_staticlib.lib'
