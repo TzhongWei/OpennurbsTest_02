@@ -1,0 +1,4 @@
+#ignore the opennurbs files
+./opennurbs/
+#DaleTest
+./DaleTest/
